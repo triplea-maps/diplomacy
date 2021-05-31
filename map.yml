@@ -1,0 +1,6 @@
+map_name: diplomacy
+games:
+- {game_name: Diplomacy, file_name: Diplomacy.xml}
+- {game_name: 'Diplomacy: FFA V3 Rules', file_name: DiplomacyV3rules.xml}
+- {game_name: 'Diplomacy: FFA Great War', file_name: DiplomacyGreatWar.xml}
+- {game_name: 'Diplomacy: WW1', file_name: DiplomacyWW1.xml}
